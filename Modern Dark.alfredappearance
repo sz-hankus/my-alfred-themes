@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#FFFFFF65"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#939193FF"
+      },
+      "backgroundSelected" : "#006DEEC6",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#F8FCFFD2"
+      },
+      "iconPaddingHorizontal" : 6,
+      "roundness" : 6,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#1D6CB3FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FFFFFFE6"
+      },
+      "background" : "#00000035",
+      "roundness" : 12,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#2828281D",
+      "paddingHorizontal" : 9,
+      "width" : 631,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 17,
+      "paddingVertical" : 8
+    },
+    "credit" : "Szymon Hankus",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#909293FF",
+      "thickness" : 7
+    },
+    "name" : "Modern Dark"
+  }
+}
